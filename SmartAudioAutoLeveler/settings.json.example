@@ -1,0 +1,16 @@
+{
+  "backgroundVolume": 0.5,
+  "excludedApps": [
+    "Spotify",
+    "Discord",
+    "Teams"
+  ],
+  "autostart": false,
+  "minimizeToTray": true,
+  "startMinimized": true,
+  "theme": "System",
+  "updateInterval": 100,
+  "enableNotifications": true,
+  "lastVersion": "1.0.0",
+  "lastRun": "2024-01-01T00:00:00.0000000"
+}
